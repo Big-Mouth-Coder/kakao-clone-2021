@@ -1,3 +1,3 @@
 # welcome to my repository!
 
-CSS!
+HTML & CSS are so much fun
